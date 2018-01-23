@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * GameOver display the GameOveer sign when the game ends
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @Yueyao Gong
+ * @version 1
  */
 public class GameOver extends Actor
 {
