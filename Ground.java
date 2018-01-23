@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Ground here.
+ * Display Ground
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @Yueyao Gong
+ * @version 1
  */
 public class Ground extends Actor
 {
@@ -14,6 +14,5 @@ public class Ground extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
-    }    
+        // do nothiing
 }
